@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/monotosh404/DSALeetcode/tree/master/0007-reverse-integer) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monotosh404/DSALeetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Binary Search
