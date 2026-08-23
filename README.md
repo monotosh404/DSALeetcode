@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/monotosh404/DSALeetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/monotosh404/DSALeetcode/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/monotosh404/DSALeetcode/tree/master/0013-roman-to-integer) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monotosh404/DSALeetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/monotosh404/DSALeetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monotosh404/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/monotosh404/DSALeetcode/tree/master/0013-roman-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monotosh404/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/monotosh404/DSALeetcode/tree/master/0013-roman-to-integer) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
 ## Sliding Window
 |  |
