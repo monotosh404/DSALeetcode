@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monotosh404/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/monotosh404/DSALeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/monotosh404/DSALeetcode/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/monotosh404/DSALeetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/monotosh404/DSALeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/monotosh404/DSALeetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/monotosh404/DSALeetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/monotosh404/DSALeetcode/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/monotosh404/DSALeetcode/tree/master/0066-plus-one) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/monotosh404/DSALeetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
