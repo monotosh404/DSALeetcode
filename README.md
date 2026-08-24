@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/monotosh404/DSALeetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/monotosh404/DSALeetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/monotosh404/DSALeetcode/tree/master/0217-contains-duplicate) |
+| [0260-single-number-iii](https://github.com/monotosh404/DSALeetcode/tree/master/0260-single-number-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Two Pointers
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/monotosh404/DSALeetcode/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/monotosh404/DSALeetcode/tree/master/0260-single-number-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
