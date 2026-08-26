@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/monotosh404/DSALeetcode/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/monotosh404/DSALeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/monotosh404/DSALeetcode/tree/master/0485-max-consecutive-ones) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/monotosh404/DSALeetcode/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/monotosh404/DSALeetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/monotosh404/DSALeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/monotosh404/DSALeetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/monotosh404/DSALeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/monotosh404/DSALeetcode/tree/master/2540-minimum-common-value) |
 ## Math
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/monotosh404/DSALeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/monotosh404/DSALeetcode/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/monotosh404/DSALeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/monotosh404/DSALeetcode/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/monotosh404/DSALeetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/monotosh404/DSALeetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/monotosh404/DSALeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/monotosh404/DSALeetcode/tree/master/2540-minimum-common-value) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/monotosh404/DSALeetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Divide and Conquer
@@ -112,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/monotosh404/DSALeetcode/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/monotosh404/DSALeetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
