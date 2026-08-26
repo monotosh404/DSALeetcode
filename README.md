@@ -84,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/monotosh404/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/monotosh404/DSALeetcode/tree/master/0013-roman-to-integer) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/monotosh404/DSALeetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/monotosh404/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/monotosh404/DSALeetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
 | ------- |
