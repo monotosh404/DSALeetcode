@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/monotosh404/DSALeetcode/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/monotosh404/DSALeetcode/tree/master/2540-minimum-common-value) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/monotosh404/DSALeetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Math
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/monotosh404/DSALeetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monotosh404/DSALeetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/monotosh404/DSALeetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -147,4 +149,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monotosh404/DSALeetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/monotosh404/DSALeetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
