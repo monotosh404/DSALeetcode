@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/monotosh404/DSALeetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/monotosh404/DSALeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/monotosh404/DSALeetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/monotosh404/DSALeetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/monotosh404/DSALeetcode/tree/master/0509-fibonacci-number) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/monotosh404/DSALeetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/monotosh404/DSALeetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/monotosh404/DSALeetcode/tree/master/0260-single-number-iii) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/monotosh404/DSALeetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/monotosh404/DSALeetcode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
