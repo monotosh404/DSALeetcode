@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/monotosh404/DSALeetcode/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/monotosh404/DSALeetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/monotosh404/DSALeetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/monotosh404/DSALeetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/monotosh404/DSALeetcode/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monotosh404/DSALeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/monotosh404/DSALeetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monotosh404/DSALeetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
