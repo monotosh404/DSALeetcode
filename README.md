@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/monotosh404/DSALeetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monotosh404/DSALeetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/monotosh404/DSALeetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2210-count-hills-and-valleys-in-an-array](https://github.com/monotosh404/DSALeetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2540-minimum-common-value](https://github.com/monotosh404/DSALeetcode/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/monotosh404/DSALeetcode/tree/master/3718-smallest-missing-multiple-of-k) |
