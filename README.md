@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/monotosh404/DSALeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/monotosh404/DSALeetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/monotosh404/DSALeetcode/tree/master/0231-power-of-two) |
+| [0292-nim-game](https://github.com/monotosh404/DSALeetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/monotosh404/DSALeetcode/tree/master/0509-fibonacci-number) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/monotosh404/DSALeetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/monotosh404/DSALeetcode/tree/master/0292-nim-game) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
@@ -208,4 +210,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/monotosh404/DSALeetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/monotosh404/DSALeetcode/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/monotosh404/DSALeetcode/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/monotosh404/DSALeetcode/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/monotosh404/DSALeetcode/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
