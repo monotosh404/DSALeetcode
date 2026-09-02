@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/monotosh404/DSALeetcode/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/monotosh404/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/monotosh404/DSALeetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0877-stone-game](https://github.com/monotosh404/DSALeetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/monotosh404/DSALeetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/monotosh404/DSALeetcode/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/monotosh404/DSALeetcode/tree/master/0231-power-of-two) |
 | [0292-nim-game](https://github.com/monotosh404/DSALeetcode/tree/master/0292-nim-game) |
 | [0509-fibonacci-number](https://github.com/monotosh404/DSALeetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/monotosh404/DSALeetcode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/monotosh404/DSALeetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/monotosh404/DSALeetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/monotosh404/DSALeetcode/tree/master/0877-stone-game) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
 ## Dynamic Programming
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monotosh404/DSALeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/monotosh404/DSALeetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0509-fibonacci-number](https://github.com/monotosh404/DSALeetcode/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/monotosh404/DSALeetcode/tree/master/0877-stone-game) |
 ## Sorting
 |  |
 | ------- |
@@ -218,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/monotosh404/DSALeetcode/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/monotosh404/DSALeetcode/tree/master/0877-stone-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -226,4 +231,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/monotosh404/DSALeetcode/tree/master/0292-nim-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/monotosh404/DSALeetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
