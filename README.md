@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-minimum-increment-to-make-array-unique](https://github.com/monotosh404/DSALeetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/monotosh404/DSALeetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/monotosh404/DSALeetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monotosh404/DSALeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/monotosh404/DSALeetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monotosh404/DSALeetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/monotosh404/DSALeetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3903-smallest-stable-index-i](https://github.com/monotosh404/DSALeetcode/tree/master/3903-smallest-stable-index-i) |
 ## Pigeonhole Principle
 |  |
