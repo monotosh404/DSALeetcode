@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/monotosh404/DSALeetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/monotosh404/DSALeetcode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/monotosh404/DSALeetcode/tree/master/0905-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/monotosh404/DSALeetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monotosh404/DSALeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/monotosh404/DSALeetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monotosh404/DSALeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/monotosh404/DSALeetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monotosh404/DSALeetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/monotosh404/DSALeetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/monotosh404/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/monotosh404/DSALeetcode/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/monotosh404/DSALeetcode/tree/master/0905-sort-array-by-parity) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/monotosh404/DSALeetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monotosh404/DSALeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/monotosh404/DSALeetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -186,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/monotosh404/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/monotosh404/DSALeetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [3467-transform-array-by-parity](https://github.com/monotosh404/DSALeetcode/tree/master/3467-transform-array-by-parity) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monotosh404/DSALeetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
