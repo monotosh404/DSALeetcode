@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3876-construct-uniform-parity-array-ii](https://github.com/monotosh404/DSALeetcode/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3895-count-digit-appearances](https://github.com/monotosh404/DSALeetcode/tree/master/3895-count-digit-appearances) |
 | [3903-smallest-stable-index-i](https://github.com/monotosh404/DSALeetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/monotosh404/DSALeetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3917-count-indices-with-opposite-parity](https://github.com/monotosh404/DSALeetcode/tree/master/3917-count-indices-with-opposite-parity) |
 ## Two Pointers
 |  |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/monotosh404/DSALeetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [3903-smallest-stable-index-i](https://github.com/monotosh404/DSALeetcode/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/monotosh404/DSALeetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Pigeonhole Principle
 |  |
 | ------- |
