@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/monotosh404/DSALeetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/monotosh404/DSALeetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0136-single-number](https://github.com/monotosh404/DSALeetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/monotosh404/DSALeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/monotosh404/DSALeetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/monotosh404/DSALeetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/monotosh404/DSALeetcode/tree/master/0217-contains-duplicate) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/monotosh404/DSALeetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/monotosh404/DSALeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/monotosh404/DSALeetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/monotosh404/DSALeetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/monotosh404/DSALeetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/monotosh404/DSALeetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/monotosh404/DSALeetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/monotosh404/DSALeetcode/tree/master/0035-search-insert-position) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/monotosh404/DSALeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/monotosh404/DSALeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2540-minimum-common-value](https://github.com/monotosh404/DSALeetcode/tree/master/2540-minimum-common-value) |
