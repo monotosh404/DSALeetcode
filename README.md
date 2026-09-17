@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/monotosh404/DSALeetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monotosh404/DSALeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monotosh404/DSALeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/monotosh404/DSALeetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monotosh404/DSALeetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/monotosh404/DSALeetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/monotosh404/DSALeetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/monotosh404/DSALeetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monotosh404/DSALeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2540-minimum-common-value](https://github.com/monotosh404/DSALeetcode/tree/master/2540-minimum-common-value) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/monotosh404/DSALeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/monotosh404/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/monotosh404/DSALeetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monotosh404/DSALeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/monotosh404/DSALeetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2540-minimum-common-value](https://github.com/monotosh404/DSALeetcode/tree/master/2540-minimum-common-value) |
 | [3483-unique-3-digit-even-numbers](https://github.com/monotosh404/DSALeetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/monotosh404/DSALeetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/monotosh404/DSALeetcode/tree/master/0219-contains-duplicate-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/monotosh404/DSALeetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monotosh404/DSALeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/monotosh404/DSALeetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Greedy
 |  |
@@ -187,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/monotosh404/DSALeetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0509-fibonacci-number](https://github.com/monotosh404/DSALeetcode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/monotosh404/DSALeetcode/tree/master/0877-stone-game) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/monotosh404/DSALeetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/monotosh404/DSALeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/monotosh404/DSALeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Sorting
