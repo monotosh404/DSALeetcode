@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0905-sort-array-by-parity](https://github.com/monotosh404/DSALeetcode/tree/master/0905-sort-array-by-parity) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/monotosh404/DSALeetcode/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/monotosh404/DSALeetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1250-check-if-it-is-a-good-array](https://github.com/monotosh404/DSALeetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/monotosh404/DSALeetcode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/monotosh404/DSALeetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/monotosh404/DSALeetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/monotosh404/DSALeetcode/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/monotosh404/DSALeetcode/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/monotosh404/DSALeetcode/tree/master/0877-stone-game) |
+| [1250-check-if-it-is-a-good-array](https://github.com/monotosh404/DSALeetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/monotosh404/DSALeetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/monotosh404/DSALeetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Hash Table
 |  |
@@ -311,4 +314,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/monotosh404/DSALeetcode/tree/master/0836-rectangle-overlap) |
+## Bézout's Lemma
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/monotosh404/DSALeetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/monotosh404/DSALeetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/monotosh404/DSALeetcode/tree/master/1250-check-if-it-is-a-good-array) |
+## Extended Euclidean Algorithm
+|  |
+| ------- |
+| [1250-check-if-it-is-a-good-array](https://github.com/monotosh404/DSALeetcode/tree/master/1250-check-if-it-is-a-good-array) |
 <!---LeetCode Topics End-->
