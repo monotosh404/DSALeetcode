@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/monotosh404/DSALeetcode/tree/master/0877-stone-game) |
 | [1250-check-if-it-is-a-good-array](https://github.com/monotosh404/DSALeetcode/tree/master/1250-check-if-it-is-a-good-array) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/monotosh404/DSALeetcode/tree/master/2409-count-days-spent-together) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/monotosh404/DSALeetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/monotosh404/DSALeetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/monotosh404/DSALeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/monotosh404/DSALeetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1927-sum-game](https://github.com/monotosh404/DSALeetcode/tree/master/1927-sum-game) |
+| [2409-count-days-spent-together](https://github.com/monotosh404/DSALeetcode/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/monotosh404/DSALeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/monotosh404/DSALeetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/monotosh404/DSALeetcode/tree/master/3498-reverse-degree-of-a-string) |
