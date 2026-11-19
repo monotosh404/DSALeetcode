@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2210-count-hills-and-valleys-in-an-array](https://github.com/monotosh404/DSALeetcode/tree/master/2210-count-hills-and-valleys-in-an-array) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/monotosh404/DSALeetcode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2540-minimum-common-value](https://github.com/monotosh404/DSALeetcode/tree/master/2540-minimum-common-value) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/monotosh404/DSALeetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/monotosh404/DSALeetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/monotosh404/DSALeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/monotosh404/DSALeetcode/tree/master/3467-transform-array-by-parity) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/monotosh404/DSALeetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/monotosh404/DSALeetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/monotosh404/DSALeetcode/tree/master/2566-maximum-difference-by-remapping-a-digit) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/monotosh404/DSALeetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/monotosh404/DSALeetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Game Theory
 |  |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/monotosh404/DSALeetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/monotosh404/DSALeetcode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/monotosh404/DSALeetcode/tree/master/2154-keep-multiplying-found-values-by-two) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/monotosh404/DSALeetcode/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/monotosh404/DSALeetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3467-transform-array-by-parity](https://github.com/monotosh404/DSALeetcode/tree/master/3467-transform-array-by-parity) |
 ## Floyd's Cycle Finding Algorithm
